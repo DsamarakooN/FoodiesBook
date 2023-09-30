@@ -37,6 +37,8 @@
 
 <img src="https://firebasestorage.googleapis.com/v0/b/foodies-uploads.appspot.com/o/images%2Ffoodiesbook.gif?alt=media&token=37bc227d-d406-4ca3-b68f-e72fe0939b6b" alt='demo'>
 
+## How to run
+
 
   
 
