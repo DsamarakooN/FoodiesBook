@@ -3,7 +3,7 @@
 - **FoodiesBook** is a social media platform designed exclusively for food and beverage enthusiasts to share their culinary experiences. Users can create posts, follow other foodies, like and comment on posts, and more. This repository contains the REST API (built with Spring Boot) and the client web application (developed with React).
 
 ## Demo link
-To see the demo of the application, please watch [FoodiesBook](https://firebasestorage.googleapis.com/v0/b/foodies-uploads.appspot.com/o/images%2Ffoodiesbook.gif?alt=media&token=37bc227d-d406-4ca3-b68f-e72fe0939b6b)
+To see the demo of the application, watch [FoodiesBook Demo](https://firebasestorage.googleapis.com/v0/b/foodies-uploads.appspot.com/o/images%2Ffoodiesbook.gif?alt=media&token=37bc227d-d406-4ca3-b68f-e72fe0939b6b)
 
 ## Contributors
 
