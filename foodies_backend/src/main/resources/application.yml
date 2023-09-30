@@ -1,0 +1,29 @@
+server:
+  port: 8090
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://it20652128:TOXpM7AqBdxYxgHr@cluster0.r7chcl3.mongodb.net/foodies-db?retryWrites=true&w=majority
+      
+
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            clientId: 215425031270-79ss3mra29mm9r9avg580kt6hn5f74pn.apps.googleusercontent.com
+            clientSecret: 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
+            redirectUri: "{baseUrl}/oauth2/callback/{registrationId}"
+            scope:
+              - email
+              - profile
+app:
+  auth:
+    tokenSecret: 2B9C45E9A47F3C5D586719ECCEC4ACF09C710D976B4A9A8F6B6F5891E6283A0B0AA5A81B148F6BCC7E9A242D239D62540C2CE6C7C4FF1C5C61DFB9D88C9AD8A7
+    tokenExpirationMsec: 86400000
+  cors:
+    allowedOrigins: http://localhost:3000,http://localhost:8090
+  oauth2:
+    authorizedRedirectUris:
+      - http://localhost:3000/oauth2/redirect
+
