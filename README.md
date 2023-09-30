@@ -7,7 +7,7 @@
 - Samarakoon S.M.Y.D. [DsamarakooN](https://github.com/DsamarakooN)
 - Sampath R.D.D [RDDSampath](https://github.com/RDDSampath)
 - Ranasinghe B.D.R.A.M.A.K.B [ayodyaBRanasinghe](https://github.com/ayodyaBRanasinghe)
-- Kumara D.G.K.P (kavindu82) [kavindu82](https://github.com/kavindu82)
+- Kumara D.G.K.P [kavindu82](https://github.com/kavindu82)
 
 ## Technologies
 
